@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mitsusabur0
-- Just started my journey into programming - been studying literature and sociology for a couple of years, but now decided to pursue this other passion of mine
+- Hi, I’m @Mitsusabur0
+- Just started my journey into programming
 - Currently learning Web development (TOP) and python (CS50p)
 - I’m looking to collaborate on ... nothing yet!
 - How to reach me ... idk
